@@ -1,0 +1,40 @@
+
+h1 {
+    margin: 0; 
+    padding: 10px;
+    }
+
+.alignleft {
+        text-align: left;
+    }
+    
+.alignright {
+        text-align: right;
+    }
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    margin: 0;
+
+}
+body > footer > p {
+    margin: 0;
+    background-color: dodgerblue;
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
+
+.logIn-section { 
+    text-align: left;
+}
+
+.breaking-news {
+    text-align: right;
+}
+
+body > main {
+    text-align: center;
+}
+
